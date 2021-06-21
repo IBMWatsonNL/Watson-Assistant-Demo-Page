@@ -1,0 +1,4 @@
+applications:
+- name:  watson-assistant-demopage
+  memory: 128M
+  buildpack: sdk-for-nodejs
