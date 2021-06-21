@@ -1,7 +1,7 @@
 /*eslint-env node*/
 
 //------------------------------------------------------------------------------
-// Watson Assistant demo is based on node.js starter application for Bluemix
+// Watson Assistant demo is based on node.js starter application for IBMCloud
 //------------------------------------------------------------------------------
 
 // This application uses express as its web server
