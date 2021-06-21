@@ -1,6 +1,6 @@
 # Watson Assistant Demo
 
-This repository is create for a simple watson assitant demo website. For this you need to have an Watson Assistant plus plan
+This repository is for the creation simple watson assitant demo website. For this you need to have an Watson Assistant plus plan
 
 ### Setting up your own Watson Assistant demopage
 
